@@ -1,21 +1,35 @@
-# Тема проекта
-Составление инвестиционного портфеля и анализ фондового рынка на основе данных биржи
+# Investment Tool Project
 
-# Суть проекта
-Инструмент для создания виртуального портфеля и мониторинга фондового рынка, который включает в себя следующий функционал: 
-  * Аналитика портфеля и компаний
-  * Мониторинг текущей ситуации на фондовом рынке
-  * Календарь выплат дивидендов
-  * Новости о компаниях
-  * Прогнозы аналитиков
+## Overview
+This project aims to create a comprehensive tool for building and managing virtual investment portfolios while providing real-time stock market analysis. The tool is designed to help users make informed investment decisions through various features:
 
-# Workflow
-**Research:** разработка стратегии, дизайн метрик, планирование функционала
+- **Portfolio and Company Analytics**: Detailed analysis of your investment portfolio and individual companies.
+- **Stock Market Monitoring**: Real-time monitoring of stock market conditions.
+- **Dividend Payment Calendar**: Schedule of upcoming dividend payments.
+- **Company News**: Latest news and updates about companies in your portfolio.
+- **Analyst Forecasts**: Predictions and forecasts from market analysts.
 
-**Разработка бота:** продумать архитектуру продукта, деплой бота в прод, наладить работу облачного сервиса для бесперебойной работы
+## Project Workflow
 
-**Разработка хранилищ:** настроить работу хранилищ, организовать ETL процессы внутри базы данных, провести ручное тестирование сервиса
+### Research
+- **Strategy Development**: Formulate investment strategies and objectives.
+- **Metrics Design**: Define key performance indicators and metrics for evaluation.
+- **Functionality Planning**: Outline the required functionalities and their implementation roadmap.
 
-# Результат работы
-Готовый продукт представляет из себя telegram бот с вышеперечисленным функционалом.
-Ссылка на продукт: https://t.me/how_to_invest_project_bot
+### Bot Development
+- **Product Architecture**: Design the architecture of the bot.
+- **Deployment**: Deploy the bot to a production environment.
+- **Cloud Service Setup**: Ensure seamless operation through reliable cloud services.
+
+### Storage Development
+- **Storage Configuration**: Set up databases and storage systems.
+- **ETL Processes**: Implement ETL (Extract, Transform, Load) processes within the database.
+- **Manual Testing**: Conduct thorough testing to ensure the reliability and accuracy of the service.
+
+# Project Outcome
+The final product is a Telegram bot with the aforementioned features.
+Link to the product: [How to Invest Project Bot](https://t.me/how_to_invest_project_bot)
+
+# Contact
+For any questions or inquiries, feel free to reach out via [Telegram](https://t.me/travelwithtagir) or create an issue in this GitHub repository.
+
